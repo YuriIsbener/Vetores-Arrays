@@ -1,0 +1,13 @@
+C:\Users\yuris\Desktop\Vetores Arrays\bin\Debug\netcoreapp3.1\Vetores Arrays.exe
+C:\Users\yuris\Desktop\Vetores Arrays\bin\Debug\netcoreapp3.1\Vetores Arrays.deps.json
+C:\Users\yuris\Desktop\Vetores Arrays\bin\Debug\netcoreapp3.1\Vetores Arrays.runtimeconfig.json
+C:\Users\yuris\Desktop\Vetores Arrays\bin\Debug\netcoreapp3.1\Vetores Arrays.runtimeconfig.dev.json
+C:\Users\yuris\Desktop\Vetores Arrays\bin\Debug\netcoreapp3.1\Vetores Arrays.dll
+C:\Users\yuris\Desktop\Vetores Arrays\bin\Debug\netcoreapp3.1\Vetores Arrays.pdb
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.csprojAssemblyReference.cache
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.AssemblyInfoInputs.cache
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.AssemblyInfo.cs
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.csproj.CoreCompileInputs.cache
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.dll
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.pdb
+C:\Users\yuris\Desktop\Vetores Arrays\obj\Debug\netcoreapp3.1\Vetores Arrays.genruntimeconfig.cache
